@@ -15,7 +15,7 @@ By participating contributing to open-source projects, like React, you can help 
 
 ## Get Involved!
 - Check out the Issues: Review the existing issues in React repository to see where you can help.
-- Spread the Word: Share this project with fellow developers :)
+- Spread the Word: Share this project [https://newreact.dev](https://newreact.dev) with fellow developers :)
 
 ## 🔗 Official React Page
 For more information about the original React library, visit the official React website: [React Official Page](https://react.dev).
